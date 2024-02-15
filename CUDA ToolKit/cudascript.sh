@@ -1,5 +1,5 @@
-sudo mkdir VCAnx
-cd /home/asymmetrica/VCAnx/
+sudo mkdir VCAServer
+cd /home/asymmetrica/VCAServer/
 sudo mkdir CUDA
 cd /home/asymmetrica/VCAnx/CUDA/
 
