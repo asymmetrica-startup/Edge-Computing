@@ -1,7 +1,7 @@
 # Edge Computing Video Boards
 
-NVIDIA JetPack Archive --> [https://developer.nvidia.com/embedded/jetson-linux-archive]
-NVIDIA SdOS Archive --> [https://developer.nvidia.com/jetpack-sdk-464]
+- NVIDIA JetPack Archive --> [https://developer.nvidia.com/embedded/jetson-linux-archive]
+- NVIDIA MicroSD-OS Archive --> [https://developer.nvidia.com/jetpack-sdk-464]
 
 > NVIDIA P3541
 
