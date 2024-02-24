@@ -1,7 +1,7 @@
 sudo mkdir VCAServer
 cd /home/asymmetrica/VCAServer/
 sudo mkdir CUDA
-cd /home/asymmetrica/VCAnx/CUDA/
+cd /home/asymmetrica/VCAServer/CUDA/
 
 sudo wget https://developer.download.nvidia.com/compute/cuda/repos/ubuntu1804/sbsa/cuda-ubuntu1804.pin
 sudo mv cuda-ubuntu1804.pin /etc/apt/preferences.d/cuda-repository-pin-600

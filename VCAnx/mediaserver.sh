@@ -1,6 +1,6 @@
-cd /home/asymmetrica/VCAServer/
+cd /home/asymmetrica/VCAnx/
 sudo mkdir NetOpt
-cd /home/asymmetrica/VCAServer/NetOpt/
+cd /home/asymmetrica/VCAnx/NetOpt/
 
 sudo wget https://updates.networkoptix.com/default/5.1.2.37996/arm/nxwitness-client-5.1.2.37996-linux_arm64.deb
 sudo wget https://updates.networkoptix.com/default/5.1.2.37996/arm/nxwitness-server-5.1.2.37996-linux_arm64.deb
